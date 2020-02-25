@@ -7,7 +7,7 @@ import pageObject.LoginObject;
 
 public class LoginTest {
 
-	LoginObject lg;
+	LoginObject lg2;
 
 	public LoginTest() {
 		lg = new LoginObject();
